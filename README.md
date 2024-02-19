@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0803phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="0803phoenix" /> </p>
 
-- 🌱 I’m currently learning **Next.js, System design**
+- 🌱 I’m currently learning **Next.js, System design, DSA**
 
 - 💬 Ask me about **MERN, JAVA Springboot,**
 
