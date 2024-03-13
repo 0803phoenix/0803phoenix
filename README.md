@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0803phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="0803phoenix" /> </p>
 
-- 🌱 I’m currently learning **Next.js, System design, DSA**
+- 🌱 I’m currently learning **Next.js, System design, DSA, Terraform, AWS, Python**
 
 - 💬 Ask me about **MERN, JAVA Springboot,**
 
-- 📫 How to reach me **aryan.mangal9413@gmail.com**
+- 📫 How to reach me **aryanmangal832@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
