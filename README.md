@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0803phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="0803phoenix" /> </p>
 
-- 🌱 I’m currently learning **Next.js, System design, DSA, Terraform, AWS, Python**
+- 🌱 I’m currently learning **Node.js, Next.js System design, DSA, Terraform, AWS, Python**
 
-- 💬 Ask me about **MERN, JAVA Springboot,**
+- 💬 Ask me about **MERN, AWS, Python, Terraform,**
 
 - 📫 How to reach me **aryanmangal832@gmail.com**
 
